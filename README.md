@@ -1,0 +1,1 @@
+The code was uploaded with two datasets: animals and fruits. The fruits dataset performs better due to higher image quality. To improve the performance with animals, the animals dataset needs to be updated
